@@ -1,4 +1,4 @@
-# NaaS (NFT's as a Service) contracts
+# Solareum token contract
 
 This project is using [Hardhat](https://hardhat.org/getting-started/) for development, compiling, testing and deploying. The development tool used for development is [Visual Studio Code](https://code.visualstudio.com/) which has [great plugins](https://hardhat.org/guides/vscode-tests.html) for solidity development and mocha testing.
 
