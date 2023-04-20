@@ -1,0 +1,11 @@
+
+.env
+
+abi/
+artifacts/
+build/
+cache/
+migrations/
+migrations_/
+typechain/
+node_modules/
